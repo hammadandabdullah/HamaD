@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/HamaD/static/css/main.2c9972d1.chunk.css",
+    "main.js": "/HamaD/static/js/main.c6a409c6.chunk.js",
+    "main.js.map": "/HamaD/static/js/main.c6a409c6.chunk.js.map",
+    "runtime-main.js": "/HamaD/static/js/runtime-main.ad38fb7b.js",
+    "runtime-main.js.map": "/HamaD/static/js/runtime-main.ad38fb7b.js.map",
+    "static/css/2.f2512455.chunk.css": "/HamaD/static/css/2.f2512455.chunk.css",
+    "static/js/2.28fede02.chunk.js": "/HamaD/static/js/2.28fede02.chunk.js",
+    "static/js/2.28fede02.chunk.js.map": "/HamaD/static/js/2.28fede02.chunk.js.map",
+    "static/js/3.e9271e04.chunk.js": "/HamaD/static/js/3.e9271e04.chunk.js",
+    "static/js/3.e9271e04.chunk.js.map": "/HamaD/static/js/3.e9271e04.chunk.js.map",
+    "index.html": "/HamaD/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/HamaD/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.2c9972d1.chunk.css.map": "/HamaD/static/css/main.2c9972d1.chunk.css.map",
+    "static/js/2.28fede02.chunk.js.LICENSE.txt": "/HamaD/static/js/2.28fede02.chunk.js.LICENSE.txt",
+    "static/media/bgvideo.7f911b0d.mp4": "/HamaD/static/media/bgvideo.7f911b0d.mp4",
+    "static/media/image1.a2dc99d1.png": "/HamaD/static/media/image1.a2dc99d1.png",
+    "static/media/image2.7fbdcf39.png": "/HamaD/static/media/image2.7fbdcf39.png",
+    "static/media/image3.9974e30b.png": "/HamaD/static/media/image3.9974e30b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad38fb7b.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.28fede02.chunk.js",
+    "static/css/main.2c9972d1.chunk.css",
+    "static/js/main.c6a409c6.chunk.js"
+  ]
+}
